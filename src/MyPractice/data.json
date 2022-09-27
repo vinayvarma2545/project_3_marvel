@@ -65,62 +65,124 @@
         "comics":[
             {
                 "img2":"https://i.kym-cdn.com/photos/images/newsfeed/000/715/055/c6c.gif",
-                "title2":"comic",
-                "button2":"Display now"
+                "title2":"Stark",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://c.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif",
-                "title2":"comic",
-                "button2":"Display now"
+                "img2":"https://i.kym-cdn.com/photos/images/newsfeed/000/959/661/836.gif",
+                "title2":"1st Avenger",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://64.media.tumblr.com/c5159c327ebb094a0bb2f2de5f6077c5/8c7d40a49d72f59b-01/s540x810/8e40ba179c4fc5d1e858a34c79dbe3899eba5403.gif",
-                "title2":"comic",
-                "button2":"Display now"
+                "img2":"https://i.imgur.com/S2QI8ig.gif",
+                "title2":"Thunder",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://i.gifer.com/origin/27/27bc47a85e08b55a9242266dbd9a0bf9.gif",
-                "title2":"comic",
-                "button2":"Display now"
+                "img2":"https://giffiles.alphacoders.com/990/9906.gif",
+                "title2":"Smash",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://i.gifer.com/origin/5b/5b713e8317ee41c0f7d33be032dfc2d0.gif",
-                "title2":"comic",
-                "button2":"Display now"
+                "img2":"http://pa1.narvii.com/6515/355505967709dc8f4ee6a125bdfc490cda59158c_00.gif",
+                "title2":"Spidy",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://c.tenor.com/jNGGYr4g4xAAAAAC/benedict-cumberbatch-dr-strange.gif",
-                "title2":"comic",
-                "button2":"Display now"
+                "img2":"https://i.pinimg.com/originals/99/cd/b8/99cdb82abe2166385447e96e110063fd.gif",
+                "title2":"Loop",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://media1.giphy.com/media/xUOwFZAYt391yoYAuc/giphy.gif",
-                "title2":"comic",
-                "button2":"Display now"
+                "img2":"https://i.pinimg.com/originals/9a/b0/25/9ab025ac190438b135fdace6d0c45813.gif",
+                "title2":"Wasp",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://i.makeagif.com/media/3-09-2019/wqVE3I.gif",
-                "title2":"comic",
-                "button2":"Watch now"
+                "img2":"https://media3.giphy.com/media/jmpmMqEAkvIzX7hstX/giphy.gif",
+                "title2":"Boss",
+                "button2":"Read now"
             },
 
             {
-                "img2":"https://64.media.tumblr.com/21a4ba325e4815bb66102d515550b104/tumblr_pabo6omgiT1wqbploo2_500.gifv",
-                "title2":"comic",
-                "button2":"Watch now"
+                "img2":"https://i.pinimg.com/originals/54/c2/cf/54c2cfafe3e950f684d15fb7e7bb6b7c.gif",
+                "title2":"Gaurdian",
+                "button2":"Read now"
             },
 
             {
-              "img2":"https://i.pinimg.com/originals/09/15/3e/09153e19019eb12d06a6aeb7db59eefe.gif",
-              "title2":"comic",
-              "button2":"Watch now"
+              "img2":"https://pa1.narvii.com/6305/8073965c2b013c5e6a907c62372a30be8dc563f7_hq.gif",
+              "title2":"Ultron",
+              "button2":"Read now"
+            }
+   
+        ],
+        "games":[
+            {
+                "img3":"https://i.kinja-img.com/gawker-media/image/upload/t_original/p8odotiszx8btmfkhnfj.gif",
+                "title3":"Stark",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"https://thumbs.gfycat.com/AnotherFlawedAmericanshorthair-size_restricted.gif",
+                "title3":"1st Avenger",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"https://c.tenor.com/XVugK4i7HKYAAAAd/thor-marvels-avengers.gif",
+                "title3":"Thunder",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"https://www.kotaku.com.au/wp-content/uploads/sites/3/2015/10/27/1492404137082206756.gif?quality=80&resize=1280,720",
+                "title3":"Smash",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"https://c.tenor.com/I4QpkuAYtDUAAAAd/spiderman-ps4-spiderman.gif",
+                "title3":"Spidy",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"http://pa1.narvii.com/7159/48f0fe7a62829655e159270f43e9012cffa319e6r1-300-270_00.gif",
+                "title3":"Loop",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"https://c.tenor.com/7nLpGON7cn4AAAAd/mcoc-ant-man.gif",
+                "title3":"Wasp",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"https://i.gifer.com/BjTg.gif",
+                "title3":"Boss",
+                "button3":"Play now"
+            },
+
+            {
+                "img3":"https://i.imgur.com/avTCR2O.gif",
+                "title3":"Gaurdian",
+                "button3":"Play now"
+            },
+
+            {
+              "img3":"https://ambc.obs.ap-southeast-3.myhuaweicloud.com/images/rotation/18-t.gif",
+              "title3":"Ultron",
+              "button3":"Play now"
             }
    
         ]
