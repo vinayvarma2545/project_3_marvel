@@ -1,0 +1,92 @@
+.content-body{
+    margin: 1px;
+    background-color:black;
+    width:fit-content;
+    padding-bottom: 50px;
+}
+
+.logo{
+    width: auto;
+    height: 80px;
+    margin:5px;
+}
+
+.header{
+    display: flex;
+    column-gap: 200px;
+    color: aliceblue;
+    background-color: indigo;
+}
+
+.headerPage{
+    margin: 30px;
+    border-radius: 10px;
+
+}
+
+.headerPage:hover{
+    color:red;
+    border-radius: 20px;
+}
+
+
+.pageInfo{
+    margin-left:40px;
+    color:white
+}
+
+.card1{
+    padding: 2px;
+    width:auto;
+    height:max-content;
+    text-align: center;
+    margin-left: 75px;
+    margin-right:61px;
+    background-color:black;
+    border-radius: 8px;
+    /* display: flex; */
+}
+
+.main-body{
+    display: flex;
+    column-gap: 145px;
+    flex-wrap: wrap;
+    row-gap: 82px;
+    
+}
+
+.j-body{
+    border:2px solid white;
+    border-radius: 8px;
+}
+
+.image1{
+    margin:2px;
+    height: 110px;
+}
+
+.cardImage {
+    width: 150px;
+    height: 120px;
+    border-radius: 6px;
+}
+
+.cardBody{
+    background-color:darkgrey;
+    text-align: center;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.title1{
+    margin: 2px;
+    height: 40px;
+    padding-top: 5px;
+    font-size: 18px;
+    color:black;
+}
+
+.button{
+   margin:2px;
+}

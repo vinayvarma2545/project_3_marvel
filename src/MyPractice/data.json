@@ -1,0 +1,128 @@
+{
+    "marvel":{
+        "characters":[
+            {
+                "img1":"https://c.tenor.com/McY9R4_xYOIAAAAM/iron-man-tony-stark.gif",
+                "title1":"Iron Man",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://c.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif",
+                "title1":"Cap America",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://64.media.tumblr.com/c5159c327ebb094a0bb2f2de5f6077c5/8c7d40a49d72f59b-01/s540x810/8e40ba179c4fc5d1e858a34c79dbe3899eba5403.gif",
+                "title1":"Thor",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://i.gifer.com/origin/27/27bc47a85e08b55a9242266dbd9a0bf9.gif",
+                "title1":"Hulk",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://i.gifer.com/origin/5b/5b713e8317ee41c0f7d33be032dfc2d0.gif",
+                "title1":"Spider Man",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://c.tenor.com/jNGGYr4g4xAAAAAC/benedict-cumberbatch-dr-strange.gif",
+                "title1":"Doctor Strange",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://media1.giphy.com/media/xUOwFZAYt391yoYAuc/giphy.gif",
+                "title1":"Ant Man",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://i.makeagif.com/media/3-09-2019/wqVE3I.gif",
+                "title1":"Captain Marvel",
+                "button1":"Watch now"
+            },
+
+            {
+                "img1":"https://64.media.tumblr.com/21a4ba325e4815bb66102d515550b104/tumblr_pabo6omgiT1wqbploo2_500.gifv",
+                "title1":"Star Lord",
+                "button1":"Watch now"
+            },
+
+            {
+              "img1":"https://i.pinimg.com/originals/09/15/3e/09153e19019eb12d06a6aeb7db59eefe.gif",
+              "title1":"Vision",
+              "button1":"Watch now"
+            }
+   
+        ],
+        "comics":[
+            {
+                "img2":"https://i.kym-cdn.com/photos/images/newsfeed/000/715/055/c6c.gif",
+                "title2":"comic",
+                "button2":"Display now"
+            },
+
+            {
+                "img2":"https://c.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif",
+                "title2":"comic",
+                "button2":"Display now"
+            },
+
+            {
+                "img2":"https://64.media.tumblr.com/c5159c327ebb094a0bb2f2de5f6077c5/8c7d40a49d72f59b-01/s540x810/8e40ba179c4fc5d1e858a34c79dbe3899eba5403.gif",
+                "title2":"comic",
+                "button2":"Display now"
+            },
+
+            {
+                "img2":"https://i.gifer.com/origin/27/27bc47a85e08b55a9242266dbd9a0bf9.gif",
+                "title2":"comic",
+                "button2":"Display now"
+            },
+
+            {
+                "img2":"https://i.gifer.com/origin/5b/5b713e8317ee41c0f7d33be032dfc2d0.gif",
+                "title2":"comic",
+                "button2":"Display now"
+            },
+
+            {
+                "img2":"https://c.tenor.com/jNGGYr4g4xAAAAAC/benedict-cumberbatch-dr-strange.gif",
+                "title2":"comic",
+                "button2":"Display now"
+            },
+
+            {
+                "img2":"https://media1.giphy.com/media/xUOwFZAYt391yoYAuc/giphy.gif",
+                "title2":"comic",
+                "button2":"Display now"
+            },
+
+            {
+                "img2":"https://i.makeagif.com/media/3-09-2019/wqVE3I.gif",
+                "title2":"comic",
+                "button2":"Watch now"
+            },
+
+            {
+                "img2":"https://64.media.tumblr.com/21a4ba325e4815bb66102d515550b104/tumblr_pabo6omgiT1wqbploo2_500.gifv",
+                "title2":"comic",
+                "button2":"Watch now"
+            },
+
+            {
+              "img2":"https://i.pinimg.com/originals/09/15/3e/09153e19019eb12d06a6aeb7db59eefe.gif",
+              "title2":"comic",
+              "button2":"Watch now"
+            }
+   
+        ]
+    }
+}
